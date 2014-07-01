@@ -19,7 +19,7 @@
                 "version": "dev-master",
                 "name": "byng-systems/phpforce-soap-client",
                 "source": {
-                    "url": "https://github.com/byng-systems/soap-client.git",
+                    "url": "https://github.com/byng-systems/phpforce-soap-client.git",
                     "type": "git",
                     "reference": "origin/master"
                 },
